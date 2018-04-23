@@ -1,0 +1,4 @@
+  //  this.newPos = function() {
+  //    if (right || left) {this.x = xcoord;}
+  //    if (up    || down) {this.y = ycoord;}
+  //    }

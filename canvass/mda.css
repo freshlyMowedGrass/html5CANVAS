@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(255, 0, 0, 0.411);
+  margin: 0;
+  height: 0;
+}
+
+.gaem {
+
+}
+
+#myCanvas {
+  background-image: url("cherry.gif");
+}
+
+#ty {
+  display: none;
+}
+
+#ghu {
+  display: none;
+}
+
+#pee {
+  display: none;
+  
+}
+
+#doo {
+    text-align: center;
+    letter-spacing: 5px;
+  }
